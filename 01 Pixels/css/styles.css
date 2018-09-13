@@ -1,0 +1,14 @@
+.box {
+    background: red;
+    height: 100px;
+    width: 300px;
+}
+.box h1 {
+    color: white;
+}
+.box h1:hover {
+    color: black;
+}
+.box p {
+    font-size: 20px;
+}
